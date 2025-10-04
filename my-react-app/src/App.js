@@ -7,6 +7,7 @@ import './Product.js';
 import './About.js';
 import  './index.jsx';
 import  './banner.js';
+import './index.html';
 import '<div className="banner"></div>.html';
 function App() {
   const [count, setCount] = useState(0)
